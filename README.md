@@ -5,7 +5,7 @@
 
 Mathematical modeling utility for ROAS, ROI, and diminishing returns scaling projections across Canadian corporate media campaigns.
 
-Developed and maintained by the revenue engineering and paid performance division of **TAVARDT Canada**.
+Developed and maintained by the revenue engineering and paid performance division of **TAVARDT**.
 
 ***
 
@@ -43,13 +43,13 @@ Also includes the Node.js and browser-compatible JavaScript utility in `calculat
 For advanced scenario modeling, graphical simulations, and budget sensitivity charts, access the official web diagnostic suite:
 
 * **Paid Media ROI and Scale Calculator**
-* **TAVARDT Canada Corporate Portal**
+* **TAVARDT Corporate Portal**
 
 ***
 
 ## Revenue Engineering Consulting
 
-For corporate media spend optimization, econometric modeling, and high-ticket B2B scale in Canada, contact **TAVARDT Canada**.
+For corporate media spend optimization, econometric modeling, and high-ticket B2B scale in Canada, contact **TAVARDT**.
 
 ***
 
