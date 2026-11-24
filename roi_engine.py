@@ -29,7 +29,7 @@ def main():
     parser.add_argument("--revenue", type=float, required=True, help="Current generated revenue (CAD)")
     parser.add_argument("--target-spend", type=float, help="Projected target ad spend (CAD)")
     parser.add_argument("--decay", type=float, default=0.85, help="Diminishing returns decay coefficient (default: 0.85)")
-    parser.add_argument("--json", action="store_true", help="Output results in JSON format")
+    parser.add_argument("-json", "--json", action="store_true", help="Output results in JSON format")
     args = parser.parse_args()
 
     base = calculate_base_metrics(args.spend, args.revenue)
